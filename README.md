@@ -6,7 +6,7 @@
 - Из IDEA: Git -> Branches -> New Branch. Далее ввести имя ветки, галочка checkout остается отмеченной
 3. Выполнить задачу. Для теста можно создать любой пакет с одним классом
 4. Выполнить коммит в новой ветке и пуш в удаленный репозиторий
-- Токен для коммита: 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
+- Токен для коммита в ТГ
 5. Далее создать pull request
 - Иконка создания слева под иконкой коммита
 - Или из меню: Git -> Github -> Create Pull Request
